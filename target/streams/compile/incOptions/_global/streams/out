@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\ScalaProjects\udemy-akka-remoting-clustering\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$RecordTemperature.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$RespondTemperature.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Try$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TemperatureRecordedActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Try$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$ReadTemperature.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$RespondTemperature$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$$anonfun$onSignal$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RespondTemperatureActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RespondTemperatureActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$RecordTemperature$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$TemperatureRecorded.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$ReadTemperature$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TemperatureRecordedActor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Device$TemperatureRecorded$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Try.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\ScalaProjects\udemy-akka-remoting-clustering\target\scala-2.13\classes.bak[0m
